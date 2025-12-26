@@ -8,6 +8,10 @@ Bruteforce attack, For educational purpose only
 ```
 >> apt-get install git python3 python3-pip python python-pip
 ```
+## Install Requirements (on termux)
+```
+>> pkg install git python3 python3-pip python python-pip
+```
 
 ## Run commands one by one
 ```
